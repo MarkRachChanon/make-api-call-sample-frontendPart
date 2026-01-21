@@ -14,7 +14,7 @@
 
 ### 1. Clone โปรเจค
 ```bash
-git clone <repository-url>
+git clone https://github.com/MarkRachChanon/make-api-call-sample-frontendPart.git
 cd member-frontend
 ```
 
