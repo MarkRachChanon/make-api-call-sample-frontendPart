@@ -2,13 +2,6 @@
 
 โปรเจค Frontend สำหรับระบบจัดการข้อมูล Member, Products, Orders
 
-Git Clone : Projects
-
-```bash
-[git clone <repository-url>
-cd member-frontend](https://github.com/MarkRachChanon/make-api-call-sample-frontendPart.git)
-```
-
 ## 🚀 เทคโนโลยีที่ใช้
 
 - React 18
